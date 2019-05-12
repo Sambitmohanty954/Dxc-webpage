@@ -1,0 +1,97 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css";
+@import "http://fonts.googleapis.com/css?family=Roboto:400,500";
+body{
+  background-color: black;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#bg3{background-color:#000000;}
+#bg3 .foot{padding-top: 15px;}
+footer{background-color:#000000; color: white; padding-bottom:45px;}
+#foot1,#foot2,#foot3 a{color:white;padding-left: 10px;}
+#foot4{background-color:black;}
+#foot1 a:hover{
+  text-decoration: none;
+  color:#FFC831;
+} 
+#foot2 a:hover{
+  text-decoration: none;
+  color:#FFC831;
+}
+h5#firstchild{padding-top:15px;}
+
+#foot1,#foot2,#foot3,#foot4 h3{color:#2cd0cd;}
+#foot3 h4{padding-top: 15px;line-height: 1.4}
+.lay{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#sambu{
+ background: url(https://newevolutiondesigns.com/images/freebies/city-wallpaper-1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.site-wrapper {
+  background: url("https://wallpaperaccess.com/full/450556.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+ 
+}
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+          box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin: auto;
+}
+.cover {
+  padding: 0 150px;
+}
+.cover{
+  padding: 10px 20px;
+  font-weight: bold;
+}
+.inner {
+  padding: 150px;
+}
+#jags{
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  color: #fff ;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#jagu{
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  color: #fff ;
+  font-weight: bold;
+  font-family: sans-serif;
+}
